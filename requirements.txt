@@ -1,0 +1,4 @@
+transformers
+optimum
+onnx
+onnxruntime
